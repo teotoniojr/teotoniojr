@@ -1,7 +1,7 @@
 # Sobre mim:
 
 - 👋 Olá, Eu sou o @teotoniojr 
-- 🔭 Atualmente estou trabalhando como professor de Ciências, Matemática, Pensamento Computacional, Projeto de Vida e Química.
+- 🔭 Atualmente estou trabalhando como professor.
 - 👀 Estou interessado nos projetos dos meus estudantes.
 - 🌱 Estou aprendendo a programação em JavaScript, HTML e CSS.
 - 📫 Você pode me encontrar no email : teotonio.junior@escola.pr.gov.br
