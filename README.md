@@ -1,17 +1,31 @@
-<h1 style="background-color:#95b5c4;"> Sobre mim: </h1>
+# 👋 Teotonio Souza Junior
 
-- 👋 Olá, Eu sou o @teotoniojr 
-- 🔭 Atualmente estou trabalhando como professor.
-- 👀 Estou interessado nos projetos dos meus estudantes.
-- 🌱 Estou aprendendo a programação em JavaScript, HTML e CSS.
-- 📫 Você pode me encontrar no email : teotonio.junior@escola.pr.gov.br
+🎓 Professor do Ensino Fundamental e Médio  
+💻 Estudante de Análise e Desenvolvimento de Sistemas  
+📍 Educação, programação e tecnologia
 
 ---
 
-<img src="https://media1.tenor.com/m/GOj9ZF_-ZOcAAAAC/cat.gif" alt="Cat GIF" width="200"/>
+## Sobre mim
+
+Sou graduado pela **UNILA**, com intercâmbio acadêmico em **Popayán, Colômbia**.  
+Atuo como professor e iniciei minha jornada na programação através do **Pensamento Computacional**, ensinando enquanto aprendia.
+
+Comecei com **Scratch** e **p5.js**, avancei para **HTML, CSS e JavaScript** e, em 2024, assumi o desafio de lecionar no **Curso Técnico em Desenvolvimento de Sistemas**, aprofundando estudos em **banco de dados, Python, JavaScript e IA**.
+
+Em **2025**, iniciei a graduação em **Análise e Desenvolvimento de Sistemas no IFPR**, onde sigo aprendendo e evoluindo.
 
 ---
-<p align="center"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></p>
 
+## Atualmente
 
+- 👨‍🏫 Professor de Educação Digital e Programação  
+- 🎓 Estudante de ADS  
+- 🎮 Desenvolvendo meu primeiro jogo com **Godot**
+
+---
+
+## Tecnologias
+
+`Scratch` · `p5.js` · `HTML` · `CSS` · `JavaScript` · `Python` · `C` · `SQL`
 
