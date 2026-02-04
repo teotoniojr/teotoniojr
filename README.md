@@ -1,4 +1,4 @@
-# 👋 Teotonio Souza Junior
+# 👋 Teotonio José de Souza Junior
 
 🎓 Professor do Ensino Fundamental e Médio  
 💻 Estudante de Análise e Desenvolvimento de Sistemas  
